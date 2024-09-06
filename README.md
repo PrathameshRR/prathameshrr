@@ -34,7 +34,7 @@ Check out our [Research Labs Podcast](https://perspective.sundaypyjamas.com/podc
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=prathameshrr&show_icons=true&theme=radical)y
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=prathameshrr&show_icons=true&theme=radical)
 
 
 ## 📫 How to reach me
