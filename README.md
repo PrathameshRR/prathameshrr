@@ -5,7 +5,7 @@
 Founder of SundayPyjamas | AWS Certified | Software Engineer | Podcaster
 Based in Toronto, Canada 🍁
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/prathameshrr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/prathameshrr?style=social)](https://twitter.com/prathameshrr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathameshrr/)](https://www.linkedin.com/in/prathameshrr/)
 
 ## 🚀 About Me
