@@ -1,16 +1,42 @@
-## Hi there 👋
+# Prathamesh Patel
 
-<!--
-**PrathameshRR/prathameshrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello, I'm Prathamesh!
 
-Here are some ideas to get you started:
+Founder of SundayPyjamas | AWS Certified | Software Engineer | Podcaster
+Based in Toronto, Canada 🍁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/prathameshrr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathameshrr/)](https://www.linkedin.com/in/prathameshrr/)
+
+## 🚀 About Me
+
+I'm passionate about building products.
+
+## 🛠 Skills
+
+- **Cloud Technologies:** AWS (Certified), Azure, GCP
+- **Programming Languages:** Python, JavaScript, Go
+- **DevOps:** Docker, Kubernetes, CI/CD
+- **Product Management:** Agile methodologies, User Stories, Roadmapping
+
+
+## 🎙 SundayPyjamas
+
+Founder of SundayPyjamas,
+- Engineering and Design Consulting Services for Startups and Enterprises
+- Hosting tech-focused podcasts
+
+
+Check out our [Research Labs Podcast](https://perspective.sundaypyjamas.com/podcast) with over 75 episodes and listeners from 42+ countries!
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+
+
+## 📫 How to reach me
+
+- Email: prathamesh@sundaypyjamas.com
+- Twitter: [@yourtwitterhandle](https://twitter.com/prathameshrr)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/prathameshrr/)
+
