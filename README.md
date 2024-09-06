@@ -22,7 +22,7 @@ I'm passionate about building products.
 
 ## 🎙 SundayPyjamas
 
-Founder of SundayPyjamas.com,
+Founder of [SundayPyjamas](https://www.sundaypyjamas.com/),
 - Engineering and Design Consulting Services for Startups and Enterprises
 - Hosting tech-focused podcasts
 
