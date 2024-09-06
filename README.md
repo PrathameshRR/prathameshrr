@@ -32,10 +32,6 @@ Founder of [SundayPyjamas](https://www.sundaypyjamas.com/),
 
 Check out our [Research Labs Podcast](https://perspective.sundaypyjamas.com/podcast) with over 75 episodes and listeners from 42+ countries!
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=prathameshrr&show_icons=true&theme=radical)
-
 
 ## 📫 How to reach me
 
