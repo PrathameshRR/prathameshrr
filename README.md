@@ -10,9 +10,8 @@ Based in Toronto, Canada 🍁
 - **Product Management:** Agile methodologies, User Stories, Roadmapping
 
 ## 🎙 SundayPyjamas
-Founder of [SundayPyjamas](https://www.sundaypyjamas.com/),
 - Engineering and Design Consulting Services for Startups and Enterprises
-- Hosting tech-focused podcasts
+
 
 ## Engineering Blog
 [SundayPyjamas Engineering](https://engineering.sundaypyjamas.com/)
